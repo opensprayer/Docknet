@@ -1,0 +1,7 @@
+#this program breaks photos into 256 by 256 chunks.
+
+height = 256
+width = 256
+
+for range 0,width,imagew 
+  for range 
